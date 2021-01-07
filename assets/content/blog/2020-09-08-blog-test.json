@@ -1,6 +1,6 @@
 {
-  "title": "Blog test",
+  "title": "Welcome",
   "date": "2020-09-08T06:00:00.000Z",
-  "description": "Ipsa natus aliquid ",
-  "body": "## some Post\n\n### Some subheader\n\nLorem ipsum dolor websites amet.\n\n> A blockquote from a wise person."
+  "description": "An initial blog post",
+  "body": "## Welcome to my site\n\n### I will use this blog post to formalize my activity\n\nI'm always trying new things and currently I'm trying to grow my own business which is off to quite a successful start!"
 }
