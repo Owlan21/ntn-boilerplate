@@ -1,8 +1,8 @@
 {
   "name": "ntn-boilerplate",
   "version": "1.0.0",
-  "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
-  "author": "Sven Parker <sven@svenparker.com> (https://svenparker.com)",
+  "description": "Alan How Portfolio",
+  "author": "Alan How",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
@@ -16,6 +16,7 @@
   "license": "MIT",
   "dependencies": {
     "@nuxtjs/markdownit": "^1.2.6",
+    "netlify-cms": "^2.10.80",
     "nuxt": "^2.14.12"
   },
   "devDependencies": {
