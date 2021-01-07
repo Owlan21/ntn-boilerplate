@@ -1,7 +1,8 @@
 {
   "date": "2020-09-08T20:35:29.027Z",
-  "project_type": "story",
-  "title": "Story test",
-  "description": "Short descriptive text",
-  "body": "Longer **markdown**-*enabled* content text."
+  "project_type": "photo",
+  "title": "Platform Pack",
+  "description": "A dynamic platform for game developers",
+  "body": "I personally love platformers, such as Mario, Spyro and Crash. \n\nIt's always been a dream of mine to create one of my own. I'm creating each of the major mechanics into well-done separate projects.\n\nStarting with the platforms; made entirely in UE4 using C++, a single platform can be altered into a large variety of different platforms. \n\nThe variety can be seen here:\n\n[![Al's Platform Pack](http://img.youtube.com/vi/Jse8QwN79_k/0.jpg)](http://www.youtube.com/watch?v=Jse8QwN79_k \"Al's Platform Pack\")",
+  "cover": "/img/alsplatformpack.jpg"
 }
