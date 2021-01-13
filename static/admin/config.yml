@@ -10,6 +10,8 @@ media_folder: static/img
 public_folder: /img
 
 # Docs: https://www.netlifycms.org/docs/configuration-options/#collections 
+fields:
+  - { name: <fieldname>, label: <fieldlabel>, widget: youtube, extraInfo: false, APIkey: "<KEY>" }
 collections:
   - label: 'Site settings'
     name: 'site'
@@ -79,6 +81,7 @@ collections:
           summary: '{{fields.image}}',
           field: { label: 'Image', name: 'image', widget: 'image' },
         }
+        
         
   # - name: 'story_projects'
   #   # identifier_field: name
