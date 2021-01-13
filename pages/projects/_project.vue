@@ -7,17 +7,6 @@
     <div v-if="projectPost.gallery">
       <img v-for="image in projectPost.gallery" class="image" :key="image.id" :src="image" />
     </div>
-    <div>
-      <iframe
-        width="100%"
-        height="454"
-        src="https://www.youtube.com/embed/Jse8QwN79_k"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      >
-      </iframe>
-    </div>
   </article>
 </template>
 <script>
