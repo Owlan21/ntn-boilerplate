@@ -3,6 +3,7 @@
   "project_type": "photo",
   "title": "Platform Pack",
   "description": "A dynamic platform for game developers",
-  "body": "I personally love platformers, such as Mario, Spyro and Crash. \n\nIt's always been a dream of mine to create one of my own. I'm creating each of the major mechanics into well-done separate projects.\n\nStarting with the platforms; made entirely in UE4 using C++, a single platform can be altered into a large variety of different platforms. \n\nThe variety can be seen here:\n<iframe width=\"100%\" height=\"454\" src=\"https://www.youtube.com/embed/Jse8QwN79_k\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-  "cover": "/img/alsplatformpack.jpg"
+  "body": "I personally love platformers, such as Mario, Spyro and Crash. \n\nIt's always been a dream of mine to create one of my own. I'm creating each of the major mechanics into well-done separate projects.\n\nStarting with the platforms; made entirely in UE4 using C++, a single platform can be altered into a large variety of different platforms. \n\nThe variety can be seen here:\n\nyoutube Jse8QwN79_k",
+  "cover": "/img/alsplatformpack.jpg",
+  "gallery": []
 }
